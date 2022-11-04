@@ -8,8 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="CsvHelper" />
+  </ItemGroup>
+  <ItemGroup>
     <None Update="nba-2021-UTC.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="30.0.0" />
   </ItemGroup>
 </Project>

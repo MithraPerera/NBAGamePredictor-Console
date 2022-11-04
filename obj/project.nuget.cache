@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q4fRcPDTCkF2wxnZgfEFtGJQ8cuJHOYpzCK/kyQ86xjicRsB0jRW28ruF69COMfGQfze5LqGDEIOzASjUis0FQ==",
+  "dgSpecHash": "4gRvpFOf/Ix2GLNv67bjRG/XXmGSJR04I1GllyO4qYn9gnJepK0pORx5ehWMTCSeyWg8UpwfkLuVusJsb5WCNg==",
   "success": true,
   "projectFilePath": "/Users/mithraperera/DEV/PROJECTS/NBA Game Predictor/NBAGamePredictor/NBAGamePredictor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mithraperera/.nuget/packages/csvhelper/30.0.0/csvhelper.30.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

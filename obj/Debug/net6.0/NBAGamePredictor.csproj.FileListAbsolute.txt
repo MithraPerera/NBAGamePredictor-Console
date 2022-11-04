@@ -14,3 +14,5 @@
 /Users/mithraperera/DEV/PROJECTS/NBA Game Predictor/NBAGamePredictor/obj/Debug/net6.0/NBAGamePredictor.pdb
 /Users/mithraperera/DEV/PROJECTS/NBA Game Predictor/NBAGamePredictor/obj/Debug/net6.0/NBAGamePredictor.genruntimeconfig.cache
 /Users/mithraperera/DEV/PROJECTS/NBA Game Predictor/NBAGamePredictor/obj/Debug/net6.0/ref/NBAGamePredictor.dll
+/Users/mithraperera/DEV/PROJECTS/NBA Game Predictor/NBAGamePredictor/bin/Debug/net6.0/CsvHelper.dll
+/Users/mithraperera/DEV/PROJECTS/NBA Game Predictor/NBAGamePredictor/obj/Debug/net6.0/NBAGamePredictor.csproj.CopyComplete
